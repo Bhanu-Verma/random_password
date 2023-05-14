@@ -7,4 +7,5 @@ passwd = ""
 for i in range(10):
     passwd += rd.choice(chars)
 
-print(passwd)   
+#print(passwd)   
+#don't print the password just have it.
